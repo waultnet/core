@@ -1,6 +1,6 @@
 /*
- * WaultNet Core
- * Copyright (C) 2026 WaultNet Collective
+ * Waultnet Core
+ * Copyright (C) 2026 Waultnet Collective
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, version 3 or later of the License.
