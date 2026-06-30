@@ -2,7 +2,7 @@
 name = "waultnet-core"
 version = "0.1.0"
 edition = "2024"
-authors = ["randseas"]
+authors = ["Waultnet Collective"]
 description = "A decentralized, permissionless protocol for general-purpose high-performance computing."
 license = "GPL-3.0-or-later"
 
